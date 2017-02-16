@@ -1,0 +1,9 @@
+html {background-image: url("./Images/BG.png");
+	background-repeat: no-repeat;
+}
+
+#road {background-image: url("./Images/road.png");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100px;
+}

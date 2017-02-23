@@ -1,1 +1,6 @@
 /* start */
+
+body {background-image: url("./Images/Start Screen.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
